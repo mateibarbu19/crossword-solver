@@ -34,6 +34,8 @@ seconds to complete under a stress test.
 
 It was tested only using [SWI-Prolog](https://www.swi-prolog.org)
 
+**The code written by me can be read in [integrame.pl](stage3/integrame.pl).**
+
 For more information or a syllabus check out the course description
 [page here](https://cs.pub.ro/index.php/education/courses/59-under/an2under/114-programming-paradigms)
 . This course was taught by Mihnea-Cosmin Muraru.
